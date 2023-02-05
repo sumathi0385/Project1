@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.profile{
+  width: 250px;
+  height: 250px;
+  aspect-ratio: 1/1;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.user-name{
+  font-style: italic;
+  color: red;
+}
